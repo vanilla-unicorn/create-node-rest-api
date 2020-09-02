@@ -27,3 +27,7 @@ npm i -g create-node-rest-api
 With **create-node-rest-api** installed, you can now run the command from the command line to generate a new directory name for your REST API server using `create-node-rest-api <your-project-name>`.
 
 Once the script finishes running, you can `cd` into the project and begin working. You can also test the server immediately using the command `nodemon` directly from within the root of the project directory.
+
+## Additional Information
+
+Future updates will include the ability to customize the type of template that is used when generating the project as well as type of API, standard or perhaps GraphQL. This project is maintained solely by me but pull requests are welcome and will help fuel the motivation in maintaining the project.
