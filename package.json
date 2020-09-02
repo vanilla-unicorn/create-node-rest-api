@@ -1,13 +1,13 @@
 {
 	"name": "create-node-rest-api",
-	"version": "0.1.8",
+	"version": "0.1.9",
 	"description": "A quick-start Node REST API generator for getting servers up and running quickly.",
 	"bin": {
 		"create-node-rest-api": "./bin/runner.sh"
 	},
 	"preferGlobal": true,
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "nodemon index.js"
 	},
 	"keywords": [
 		"node",
