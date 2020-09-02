@@ -1,3 +1,5 @@
+![NPM](https://img.shields.io/npm/l/create-node-rest-api) ![npm](https://img.shields.io/npm/v/create-node-rest-api) ![npm](https://img.shields.io/npm/dw/create-node-rest-api)
+
 # Create Node REST API
 
 A helpful npm package that generates a default Node.js + Express.js RESTful API template.
